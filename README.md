@@ -25,6 +25,7 @@ ___
 [![KarpovCourses](https://img.shields.io/badge/KarpovCourses-090910?style=for-the-badge&logo=KarpovCourses&logoColor)](https://lab.karpov.courses/certificate/6f65c8b7-dfc1-434b-857d-2d6be99647d0/)
 [![SQL Stepik DB](https://img.shields.io/badge/SQL%20Stepik%20DB-090910?style=for-the-badge&logo=Stepik&logoColor)](https://stepik.org/cert/1134138)
 [![SQL Stepik](https://img.shields.io/badge/SQL%20Stepik-090910?style=for-the-badge&logo=Stepik&logoColor)](https://stepik.org/cert/1017534)
+[![Kaggle](https://img.shields.io/badge/Kaggle-090910?style=for-the-badge&logo=Kaggle&logoColor)](https://www.kaggle.com/yuriibezgodkov)
 
 <!--
 **ybezgodkov/ybezgodkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
