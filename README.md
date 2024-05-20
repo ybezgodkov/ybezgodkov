@@ -22,7 +22,7 @@ ___
 [![Telegram](https://img.shields.io/badge/Telegram-090910?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ybezgodkov)
 ___
 ## Обечение и сертификаты:
-[![KarpovCourses](https://img.shields.io/badge/KarpovCourses-090910?style=for-the-badge&logo=KarpovCourses&logoColor)]([https://t.me/ybezgodkov](https://lab.karpov.courses/certificate/6f65c8b7-dfc1-434b-857d-2d6be99647d0/))
+[![KarpovCourses](https://img.shields.io/badge/KarpovCourses-090910?style=for-the-badge&logo=KarpovCourses&logoColor)](https://lab.karpov.courses/certificate/6f65c8b7-dfc1-434b-857d-2d6be99647d0/)
 
 <!--
 **ybezgodkov/ybezgodkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
