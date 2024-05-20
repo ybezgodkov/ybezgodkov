@@ -1,4 +1,25 @@
-### Hi there 👋
+# Привет 👋, Я Юрий!
+___
+## Обо мне:
+Я убежден, что нужно учиться смотреть сквозь цифры и понимать взаимосвязи данных.
+С 2019 года более глубоко стал погружаться в аналитику данных и поиск методов обработки массивов.
+Прошел несколько курсов, которые позволили мне более эффективно проводить анализ и предоставлять экспертную оценку.
+___
+## Языки и инструменты:
+![Python](https://img.shields.io/badge/-Python-090910?style=for-the-badge&logo=python&logoColor)
+![Pandas](https://img.shields.io/badge/-Pandas-090910?style=for-the-badge&logo=pandas&logoColor)
+![Nupmy](https://img.shields.io/badge/-Numpy-090910?style=for-the-badge&logo=numpy&logoColor)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-090910?style=for-the-badge&logo=jupyter&logoColor)
+![Apache Airflow](https://img.shields.io/badge/-Apacheairflow-090910?style=for-the-badge&logo=apacheairflow&logoColor)
+![SQL](https://img.shields.io/badge/-SQL-090910?style=for-the-badge&logo=sql&logoColor)
+![Clickhouse](https://img.shields.io/badge/-Clickhouse-090910?style=for-the-badge&logo=Clickhouse&logoColor)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090910?style=for-the-badge&logo=PostgreSQL&logoColor)
+![Redash](https://img.shields.io/badge/-Redash-090910?style=for-the-badge&logo=Redash&logoColor)
+![Tableau](https://img.shields.io/badge/-Tableau-090910?style=for-the-badge&logo=Tableau&logoColor)
+![PowerBI](https://img.shields.io/badge/-PowerBI-090910?style=for-the-badge&logo=PowerBI&logoColor)
+___
+## Контакты:
+[![Telegram](https://img.shields.io/badge/Telegram-090910?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ybezgodkov)
 
 <!--
 **ybezgodkov/ybezgodkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
